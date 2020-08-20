@@ -1,0 +1,25 @@
+{
+  "name": "bruteforcecsrf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bruteforce_csrf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Brute",
+    "Force",
+    "CSRF"
+  ],
+  "author": "aofiee",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "line-reader": "^0.4.0",
+    "linebyline": "^1.3.0",
+    "nodemon": "^2.0.4",
+    "puppeteer": "^5.2.1",
+    "request-promise": "^4.2.6",
+    "tough-cookie-filestore": "^0.0.1"
+  }
+}
